@@ -93,9 +93,8 @@ article {
 	position: relative;
  }
 
-#division {
-	 padding: 20px;
-	background: #6ea3da;
+.center {
+	text-align: center;
 }
 
 
