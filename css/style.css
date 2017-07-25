@@ -39,7 +39,6 @@ nav {
 
 section {
 	width: 495px;
-	height: 200px
 	padding: 20px;
 	margin: 20px;
 	background: #ccc;
@@ -49,7 +48,6 @@ section {
 aside {
 	padding: 20px;
  	 color: black;
- 	 height: 200px;
 	background: green;
 	width: 400px;
 	margin-top: 20px;
@@ -67,20 +65,20 @@ footer {
 }
 
 article {
-	clear: both;
 	background: grey;
 	width: 455px;
 	padding: 20px;
-	margin: 20px;
-	position: relative;
-
+	margin-top: 20px;
+	margin-right: 20px;
+ 	word-wrap: break-word;  
 }
 
 content {
-	padding: 20px;
+ 
+ 	padding: 20px;
 	margin: 20px;
-	position: relative;
-	text-overflow: ellipsis;
+	  word-wrap: break-word;  
+
 }
 
 #left {
@@ -95,7 +93,6 @@ content {
 
 #full {
 	background: #eee;
-	min-height: 300;
 	position: relative;
  }
 
