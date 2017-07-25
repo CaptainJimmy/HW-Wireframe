@@ -16,7 +16,7 @@ body {
 	font-size: 18px;
 	line-height: 32px;
 	color: #333;
-	  width: 960px;
+	width: 960px;
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	
 }
@@ -27,7 +27,6 @@ header {
   color: #fff;
   background: purple;
   font-size: 30px;
-    width: 960px;
 
 }
 
@@ -37,7 +36,6 @@ nav {
   color: #333;
   background: pink;
   font-size: 30px; 
-   width: 960px;
 
 }
 
