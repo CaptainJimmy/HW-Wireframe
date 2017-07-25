@@ -46,6 +46,7 @@ section {
 	margin: 20px;
 	background: #ccc;
 	float: left;
+	position: relative;
 }
 
 aside {
@@ -68,17 +69,13 @@ footer {
 }
 
 article {
+	clear: both;
 	background: grey;
+	color: #ebebeb;
 	width: 455px;
 	padding: 20px;
 	margin-top: 20px;
 	margin-right: 20px;
- 	word-wrap: break-word;  
-}
-
-content {
-	color: #ebebeb;
- 
 }
 
 #left {
