@@ -1,0 +1,48 @@
+<!-- STUDENTS: Head to float.css for your assignment -->
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Wireframe</title>
+  <link rel="stylesheet" type="text/css" href="css/reset.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+
+  <header>
+    Header
+  </header>
+
+  <nav>
+    Navigation
+  </nav>
+
+<div id="full">
+  <section>
+  This is a section that is floated left
+    <article>
+      <h1>Heading 1</h1>
+      <h2>Heading 2</h2>
+      <h3>Heading 3</h3>
+     <h4>Below is an article</h4>
+      <content>
+      <p>Vegan gochujang before they sold out, franzen activated charcoal cold-pressed humblebrag drinking vinegar taiyaki skateboard. Cornhole green juice biodiesel, cray gochujang crucifix swag umami. La croix mumblecore XOXO celiac austin. Pinterest pabst messenger bag helvetica, mumblecore celiac shoreditch kale chips retro jean shorts. Quinoa offal live-edge portland semiotics paleo. PBR photo booth vape asymmetrical church-key af portland venmo. Schlitz truffaut 8-bit dreamcatcher heirloom shaman. YOLO four loko 3 wolf moon hammock kitsch echo park. Deep v skateboard taiyaki artisan waistcoat aesthetic. </p> 
+      Content is here
+      </content>
+    </article>
+  </section>
+
+  <aside>
+    THis is an asside that is floated right
+  </aside>
+</div>
+
+  <footer>
+   This is the footer
+  </footer>
+
+</body>
+
+</html>
